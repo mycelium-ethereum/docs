@@ -1,2 +1,41 @@
-site_name: Secure Data Links
-theme: readthedocs
+# Project information
+site_name: 'Secure Data Links'
+site_description: 'Secure Data Links official documentation'
+site_author: 'Raymond Mogg'
+site_url: 'https://squidfunk.github.io/mkdocs-material/'
+
+# Repository
+repo_name: 'securedatalinks/docs'
+repo_url: 'https://github.com/securedatalinks/docs'
+
+# Copyright
+copyright: 'Copyright &copy; 2018 - 2019 Secure Data Links Pty Ltd'
+
+# Theme
+theme:
+  name: 'material'
+  custom_dir: 'theme'
+  logo: 'logo.png'
+  palette:
+    primary: 'black'
+    accent: 'yellow'
+  font:
+    text: 'Inter'
+    code: 'Inter'
+extra_css:
+  - 'stylesheets/extra.css'
+
+#Extensions
+markdown_extensions:
+  - codehilite
+
+# Extras
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/securedatalinks'
+    - type: 'twitter'
+      link: 'https://twitter.com/securedatalinks'
+    - type: 'medium'
+      link: 'https://medium.com/secure-data-links'
+
