@@ -1,0 +1,30 @@
+h1 {
+    color: white !important;
+}
+
+.md-header {
+    background-color: #282828;
+}
+
+.md-main {
+    background-color: #282828 !important;
+    color: white !important;
+}
+
+.md-main .md-sidebar a:hover {
+    color: #999393;
+}
+
+.md-main .md-sidebar a:active {
+    color: #999393;
+}
+
+.md-nav__list {
+    background-color: #282828 !important;
+    color: white !important;
+}
+
+.md-sidebar__inner {
+    background-color: #282828 !important;
+    color: white !important;
+}

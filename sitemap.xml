@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+     <loc>https://squidfunk.github.io/mkdocs-material/</loc>
+     <lastmod>2019-10-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://squidfunk.github.io/mkdocs-material/ea/</loc>
+     <lastmod>2019-10-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://squidfunk.github.io/mkdocs-material/node/</loc>
+     <lastmod>2019-10-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
