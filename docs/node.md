@@ -6,7 +6,7 @@ Our Chainlink oracles are hosted using our own scalable infrastructure to provid
 
 Node Address: 0xCF2D187D3833Dd9063B019D0c39E4566576C3C56
 
-Oracle Contract: 0x2ed7e9fcd3c0568dc6167f0b8aee06a02cd9ebd8
+Oracle Contract: 0x82f0C59F55384CF75b4f9CEF74F38B001A468671
 
 ### Job IDs
 HTTP Get Bytes32: 519ac9986d28424fbe9e43b698eeb833
